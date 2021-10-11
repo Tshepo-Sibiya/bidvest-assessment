@@ -1,0 +1,7 @@
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/Debugging/bin/Debug/Q04_Debugging.exe.config
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/Debugging/bin/Debug/Q04_Debugging.exe
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/Debugging/bin/Debug/Q04_Debugging.pdb
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/Debugging/obj/Debug/Q04_Debugging.csproj.AssemblyReference.cache
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/Debugging/obj/Debug/Q04_Debugging.csproj.CoreCompileInputs.cache
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/Debugging/obj/Debug/Q04_Debugging.exe
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/Debugging/obj/Debug/Q04_Debugging.pdb

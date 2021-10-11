@@ -1,0 +1,5 @@
+C:\Development\SkillsAssessmentV2\WCF2WS\WCF2WS\bin\WCF2WS.dll.config
+C:\Development\SkillsAssessmentV2\WCF2WS\WCF2WS\bin\WCF2WS.dll
+C:\Development\SkillsAssessmentV2\WCF2WS\WCF2WS\bin\WCF2WS.pdb
+C:\Development\SkillsAssessmentV2\WCF2WS\WCF2WS\obj\Debug\WCF2WS.dll
+C:\Development\SkillsAssessmentV2\WCF2WS\WCF2WS\obj\Debug\WCF2WS.pdb

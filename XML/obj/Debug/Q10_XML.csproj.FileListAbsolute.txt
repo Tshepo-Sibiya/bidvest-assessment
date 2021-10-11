@@ -1,0 +1,8 @@
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/XML/bin/Debug/sample.xml
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/XML/bin/Debug/Q10_XML.exe.config
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/XML/bin/Debug/Q10_XML.exe
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/XML/bin/Debug/Q10_XML.pdb
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/XML/obj/Debug/Q10_XML.csproj.AssemblyReference.cache
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/XML/obj/Debug/Q10_XML.csproj.CoreCompileInputs.cache
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/XML/obj/Debug/Q10_XML.exe
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/XML/obj/Debug/Q10_XML.pdb

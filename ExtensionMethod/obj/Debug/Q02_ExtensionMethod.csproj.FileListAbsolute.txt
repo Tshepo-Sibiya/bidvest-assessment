@@ -1,0 +1,7 @@
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/ExtensionMethod/obj/Debug/Q02_ExtensionMethod.csproj.AssemblyReference.cache
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/ExtensionMethod/obj/Debug/Q02_ExtensionMethod.csproj.CoreCompileInputs.cache
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/ExtensionMethod/bin/Debug/Q02_ExtensionMethod.exe.config
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/ExtensionMethod/bin/Debug/Q02_ExtensionMethod.exe
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/ExtensionMethod/bin/Debug/Q02_ExtensionMethod.pdb
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/ExtensionMethod/obj/Debug/Q02_ExtensionMethod.exe
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/ExtensionMethod/obj/Debug/Q02_ExtensionMethod.pdb

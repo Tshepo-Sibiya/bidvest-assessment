@@ -1,0 +1,6 @@
+C:\Development\SkillsAssessmentV2\WCF1\bin\Q07_1_WCF1.dll.config
+C:\Development\SkillsAssessmentV2\WCF1\bin\Q07_1_WCF1.dll
+C:\Development\SkillsAssessmentV2\WCF1\bin\Q07_1_WCF1.pdb
+C:\Development\SkillsAssessmentV2\WCF1\obj\Debug\Q07_1_WCF1.csprojResolveAssemblyReference.cache
+C:\Development\SkillsAssessmentV2\WCF1\obj\Debug\Q07_1_WCF1.dll
+C:\Development\SkillsAssessmentV2\WCF1\obj\Debug\Q07_1_WCF1.pdb

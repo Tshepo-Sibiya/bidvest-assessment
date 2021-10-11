@@ -1,0 +1,7 @@
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/Inheritance/bin/Debug/Q08_Inheritance.exe.config
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/Inheritance/bin/Debug/Q08_Inheritance.exe
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/Inheritance/bin/Debug/Q08_Inheritance.pdb
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/Inheritance/obj/Debug/Q08_Inheritance.csproj.AssemblyReference.cache
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/Inheritance/obj/Debug/Q08_Inheritance.csproj.CoreCompileInputs.cache
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/Inheritance/obj/Debug/Q08_Inheritance.exe
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/Inheritance/obj/Debug/Q08_Inheritance.pdb

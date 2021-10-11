@@ -1,0 +1,6 @@
+C:\Development\SkillsAssessmentV2\ErrorHandling\bin\Debug\1-ErrorHandling.exe.config
+C:\Development\SkillsAssessmentV2\ErrorHandling\bin\Debug\1-ErrorHandling.exe
+C:\Development\SkillsAssessmentV2\ErrorHandling\bin\Debug\1-ErrorHandling.pdb
+C:\Development\SkillsAssessmentV2\ErrorHandling\obj\Debug\01_ErrorHandling.csprojResolveAssemblyReference.cache
+C:\Development\SkillsAssessmentV2\ErrorHandling\obj\Debug\1-ErrorHandling.exe
+C:\Development\SkillsAssessmentV2\ErrorHandling\obj\Debug\1-ErrorHandling.pdb

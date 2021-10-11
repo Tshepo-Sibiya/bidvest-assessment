@@ -1,0 +1,9 @@
+//jhbh-srv-dev02/SkillsAssessment/SkillsAssessmentV2/ErrorHandling/bin/Debug/Q01_ErrorHandling.exe.config
+//jhbh-srv-dev02/d$/SkillsAssessment/SkillsAssessmentV2/ErrorHandling/bin/Debug/Q01_ErrorHandling.exe.config
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/ErrorHandling/bin/Debug/Q01_ErrorHandling.exe.config
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/ErrorHandling/bin/Debug/Q01_ErrorHandling.exe
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/ErrorHandling/bin/Debug/Q01_ErrorHandling.pdb
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/ErrorHandling/obj/Debug/Q01_ErrorHandling.csproj.AssemblyReference.cache
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/ErrorHandling/obj/Debug/Q01_ErrorHandling.csproj.CoreCompileInputs.cache
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/ErrorHandling/obj/Debug/Q01_ErrorHandling.exe
+/Users/tssibiya/Bidvest Bank/SkillsAssessmentV2/ErrorHandling/obj/Debug/Q01_ErrorHandling.pdb

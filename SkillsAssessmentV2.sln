@@ -1,0 +1,202 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q01_ErrorHandling", "ErrorHandling\Q01_ErrorHandling.csproj", "{63B2A3D0-F02E-4DAE-A58B-644924A36B2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q02_ExtensionMethod", "ExtensionMethod\Q02_ExtensionMethod.csproj", "{8A734556-9C1C-42F9-BD0E-51E32C9CB500}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q03_Generics", "Generics\Q03_Generics.csproj", "{9C698CC9-438A-47BA-9629-8BEDD344885A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q04_Debugging", "Debugging\Q04_Debugging.csproj", "{6E1E9DB2-CC3C-403A-9781-FF502DB95CE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q05_ProblemSolving", "ProblemSolving\Q05_ProblemSolving.csproj", "{0EE2265E-44A0-43C5-A83A-7A9E0CCA5AF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q06_DBAccess", "DBAccess\Q06_DBAccess.csproj", "{73827F8E-3360-41EE-A82F-E798549AB064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q07_1_WCF1", "WCF1\Q07_1_WCF1.csproj", "{31B1CA3B-2703-4239-B6A7-ACEFBEC9058B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q07_2_WCF2", "WCF2\Q07_2_WCF2.csproj", "{BEF61B2B-DABF-4458-8874-299D0F4A1D26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q08_Inheritance", "Inheritance\Q08_Inheritance.csproj", "{F5ED24A3-0F09-410A-944A-22A7535CD811}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q09_3_WinForms", "WinForms\Q09_3_WinForms.csproj", "{BF24D2B8-7D43-4CA3-90E0-53D6232F7A20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q09_4_WPF", "WPF\Q09_4_WPF.csproj", "{1C29C5FB-401D-4638-9AAE-B39028BE2357}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{C0DC53FE-E3EC-498B-9CB4-3FD5731F3068}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q09_1_ASP.NET", "ASP.NET\Q09_1_ASP.NET.csproj", "{F532610F-37F1-47C1-A627-A5E5D326F504}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q10_XML", "XML\Q10_XML.csproj", "{07B564C2-EE78-4872-9177-A7CA4C47491F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q09_2_MVC", "MVC\Q09_2_MVC.csproj", "{7552C60B-E1CD-40AF-B5D3-B38570D86050}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 15
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://jhbh-srv-msp01:8080/tfs/bidvestbankdefault
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ASP.NET\\Q09_1_ASP.NET.csproj
+		SccProjectName1 = ASP.NET
+		SccLocalPath1 = ASP.NET
+		SccProjectUniqueName2 = ErrorHandling\\Q01_ErrorHandling.csproj
+		SccProjectName2 = ErrorHandling
+		SccLocalPath2 = ErrorHandling
+		SccProjectUniqueName3 = ExtensionMethod\\Q02_ExtensionMethod.csproj
+		SccProjectName3 = ExtensionMethod
+		SccLocalPath3 = ExtensionMethod
+		SccProjectUniqueName4 = Generics\\Q03_Generics.csproj
+		SccProjectName4 = Generics
+		SccLocalPath4 = Generics
+		SccProjectUniqueName5 = Debugging\\Q04_Debugging.csproj
+		SccProjectName5 = Debugging
+		SccLocalPath5 = Debugging
+		SccProjectUniqueName6 = ProblemSolving\\Q05_ProblemSolving.csproj
+		SccProjectName6 = ProblemSolving
+		SccLocalPath6 = ProblemSolving
+		SccProjectUniqueName7 = DBAccess\\Q06_DBAccess.csproj
+		SccProjectName7 = DBAccess
+		SccLocalPath7 = DBAccess
+		SccProjectUniqueName8 = WCF1\\Q07_1_WCF1.csproj
+		SccProjectName8 = WCF1
+		SccLocalPath8 = WCF1
+		SccProjectUniqueName9 = WCF2\\Q07_2_WCF2.csproj
+		SccProjectName9 = WCF2
+		SccLocalPath9 = WCF2
+		SccProjectUniqueName10 = Inheritance\\Q08_Inheritance.csproj
+		SccProjectName10 = Inheritance
+		SccLocalPath10 = Inheritance
+		SccProjectUniqueName11 = WinForms\\Q09_3_WinForms.csproj
+		SccProjectName11 = WinForms
+		SccLocalPath11 = WinForms
+		SccProjectUniqueName12 = WPF\\Q09_4_WPF.csproj
+		SccProjectName12 = WPF
+		SccLocalPath12 = WPF
+		SccProjectUniqueName13 = XML\\Q10_XML.csproj
+		SccProjectName13 = XML
+		SccLocalPath13 = XML
+		SccProjectUniqueName14 = MVC\\Q09_2_MVC.csproj
+		SccProjectName14 = MVC
+		SccLocalPath14 = MVC
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63B2A3D0-F02E-4DAE-A58B-644924A36B2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B2A3D0-F02E-4DAE-A58B-644924A36B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B2A3D0-F02E-4DAE-A58B-644924A36B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B2A3D0-F02E-4DAE-A58B-644924A36B2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A734556-9C1C-42F9-BD0E-51E32C9CB500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A734556-9C1C-42F9-BD0E-51E32C9CB500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A734556-9C1C-42F9-BD0E-51E32C9CB500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A734556-9C1C-42F9-BD0E-51E32C9CB500}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C698CC9-438A-47BA-9629-8BEDD344885A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C698CC9-438A-47BA-9629-8BEDD344885A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C698CC9-438A-47BA-9629-8BEDD344885A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C698CC9-438A-47BA-9629-8BEDD344885A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E1E9DB2-CC3C-403A-9781-FF502DB95CE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E1E9DB2-CC3C-403A-9781-FF502DB95CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E1E9DB2-CC3C-403A-9781-FF502DB95CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E1E9DB2-CC3C-403A-9781-FF502DB95CE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EE2265E-44A0-43C5-A83A-7A9E0CCA5AF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE2265E-44A0-43C5-A83A-7A9E0CCA5AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE2265E-44A0-43C5-A83A-7A9E0CCA5AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE2265E-44A0-43C5-A83A-7A9E0CCA5AF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73827F8E-3360-41EE-A82F-E798549AB064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73827F8E-3360-41EE-A82F-E798549AB064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73827F8E-3360-41EE-A82F-E798549AB064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73827F8E-3360-41EE-A82F-E798549AB064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31B1CA3B-2703-4239-B6A7-ACEFBEC9058B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B1CA3B-2703-4239-B6A7-ACEFBEC9058B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B1CA3B-2703-4239-B6A7-ACEFBEC9058B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B1CA3B-2703-4239-B6A7-ACEFBEC9058B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEF61B2B-DABF-4458-8874-299D0F4A1D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF61B2B-DABF-4458-8874-299D0F4A1D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF61B2B-DABF-4458-8874-299D0F4A1D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF61B2B-DABF-4458-8874-299D0F4A1D26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5ED24A3-0F09-410A-944A-22A7535CD811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5ED24A3-0F09-410A-944A-22A7535CD811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5ED24A3-0F09-410A-944A-22A7535CD811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5ED24A3-0F09-410A-944A-22A7535CD811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF24D2B8-7D43-4CA3-90E0-53D6232F7A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF24D2B8-7D43-4CA3-90E0-53D6232F7A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF24D2B8-7D43-4CA3-90E0-53D6232F7A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF24D2B8-7D43-4CA3-90E0-53D6232F7A20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C29C5FB-401D-4638-9AAE-B39028BE2357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C29C5FB-401D-4638-9AAE-B39028BE2357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C29C5FB-401D-4638-9AAE-B39028BE2357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C29C5FB-401D-4638-9AAE-B39028BE2357}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F532610F-37F1-47C1-A627-A5E5D326F504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F532610F-37F1-47C1-A627-A5E5D326F504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F532610F-37F1-47C1-A627-A5E5D326F504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F532610F-37F1-47C1-A627-A5E5D326F504}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07B564C2-EE78-4872-9177-A7CA4C47491F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B564C2-EE78-4872-9177-A7CA4C47491F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B564C2-EE78-4872-9177-A7CA4C47491F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B564C2-EE78-4872-9177-A7CA4C47491F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7552C60B-E1CD-40AF-B5D3-B38570D86050}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7552C60B-E1CD-40AF-B5D3-B38570D86050}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7552C60B-E1CD-40AF-B5D3-B38570D86050}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7552C60B-E1CD-40AF-B5D3-B38570D86050}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 15
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://jhbh-srv-msp01:8080/tfs/bidvestbankdefault
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = MVC\\Q09_2_MVC.csproj
+		SccProjectName1 = MVC
+		SccLocalPath1 = MVC
+		SccProjectUniqueName2 = WinForms\\Q09_3_WinForms.csproj
+		SccProjectName2 = WinForms
+		SccLocalPath2 = WinForms
+		SccProjectUniqueName3 = WPF\\Q09_4_WPF.csproj
+		SccProjectName3 = WPF
+		SccLocalPath13 = Inheritance
+		SccProjectUniqueName4 = ASP.NET\\Q09_1_ASP.NET.csproj
+		SccProjectName4 = ASP.NET
+		SccLocalPath4 = ASP.NET
+		SccProjectUniqueName5 = ErrorHandling\\Q01_ErrorHandling.csproj
+		SccProjectName5 = ErrorHandling
+		SccLocalPath5 = ErrorHandling
+		SccProjectUniqueName6 = ExtensionMethod\\Q02_ExtensionMethod.csproj
+		SccProjectName6 = ExtensionMethod
+		SccLocalPath6 = ExtensionMethod
+		SccProjectUniqueName7 = Generics\\Q03_Generics.csproj
+		SccProjectName7 = Generics
+		SccLocalPath7 = Generics
+		SccProjectUniqueName8 = Debugging\\Q04_Debugging.csproj
+		SccProjectName8 = Debugging
+		SccLocalPath8 = Debugging
+		SccProjectUniqueName9 = ProblemSolving\\Q05_ProblemSolving.csproj
+		SccProjectName9 = ProblemSolving
+		SccLocalPath9 = ProblemSolving
+		SccProjectUniqueName10 = DBAccess\\Q06_DBAccess.csproj
+		SccProjectName10 = DBAccess
+		SccLocalPath10 = DBAccess
+		SccProjectUniqueName11 = WCF1\\Q07_1_WCF1.csproj
+		SccProjectName11 = WCF1
+		SccLocalPath11 = WCF1
+		SccProjectUniqueName12 = WCF2\\Q07_2_WCF2.csproj
+		SccProjectName12 = WCF2
+		SccLocalPath12 = WCF2
+		SccProjectUniqueName13 = Inheritance\\Q08_Inheritance.csproj
+		SccProjectName13 = Inheritance
+		SccProjectUniqueName14 = XML\\Q10_XML.csproj
+		SccProjectName14 = XML
+		SccLocalPath14 = XML
+	EndGlobalSection
+EndGlobal

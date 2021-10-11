@@ -1,0 +1,1 @@
+﻿Handle the exception that is thrown in the console application by displaying an error message.

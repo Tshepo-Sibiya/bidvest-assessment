@@ -1,0 +1,13 @@
+C:\Development\SkillsAssessmentV2\WPF\bin\Debug\Q09_4_WPF.exe.config
+C:\Development\SkillsAssessmentV2\WPF\bin\Debug\Q09_4_WPF.exe
+C:\Development\SkillsAssessmentV2\WPF\bin\Debug\Q09_4_WPF.pdb
+C:\Development\SkillsAssessmentV2\WPF\obj\Debug\Q09_4_WPF.csprojResolveAssemblyReference.cache
+C:\Development\SkillsAssessmentV2\WPF\obj\Debug\MainWindow.baml
+C:\Development\SkillsAssessmentV2\WPF\obj\Debug\MainWindow.g.cs
+C:\Development\SkillsAssessmentV2\WPF\obj\Debug\App.g.cs
+C:\Development\SkillsAssessmentV2\WPF\obj\Debug\Q09_4_WPF_MarkupCompile.cache
+C:\Development\SkillsAssessmentV2\WPF\obj\Debug\Q09_4_WPF.g.resources
+C:\Development\SkillsAssessmentV2\WPF\obj\Debug\Q09_4_WPF.Properties.Resources.resources
+C:\Development\SkillsAssessmentV2\WPF\obj\Debug\Q09_4_WPF.csproj.GenerateResource.Cache
+C:\Development\SkillsAssessmentV2\WPF\obj\Debug\Q09_4_WPF.exe
+C:\Development\SkillsAssessmentV2\WPF\obj\Debug\Q09_4_WPF.pdb
